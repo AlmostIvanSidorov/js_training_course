@@ -50,4 +50,13 @@ const isReady = false
 
 //Тернарное выражение
 
-isReady ? console.log('ready'):console.log('not ready')
+isReady ? console.log('ready'):console.log('not readyyyy')
+
+//functions
+
+function yourAge(year) {
+    return 2022-year
+    }
+
+console.log(yourAge(1990))
+console.log(yourAge(1980))
